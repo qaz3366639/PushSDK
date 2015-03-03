@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PushSDK</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Android网络通讯</string>
+    <string name="str_uid">用户id</string>
+<!--     <string name="default_uid">674806334</string>
+    <string name="frinenduid">425924982</string> -->
+    <string name="default_uid">425924982</string>
+    <string name="frinenduid">67480334</string>
+    <string name="host">主机</string>
+    <string name="hostIP">172.16.110.179</string>
+<!--     <string name="hostIP">180.153.43.187</string> -->
+    <string name="port">端口</string>
+    <string name="hostPort">20001</string>
+    <string name="setparam">设置参数</string>
+    <string name="bind_uid">连接并绑定UID</string>
+    <string name="chat">聊天</string>
+    <string name="friendid">fid</string>
+    <string name="stopconnect">停止断开</string>
+    <string name="receivemsg">接收消息</string>
+    <string name="send">发送</string>
+    <string name="sayhello">你好</string>
+    <string name="back">返回</string>
+    <string name="clean">清除数据</string>
+    <string name="sendmsg">输入发送消息</string>
+
+</resources>
